@@ -9,8 +9,8 @@ export default defineConfig({
         // intro
         {
           media: {
-            type: 'sticker',
-            src: import('./assets/stickers/duck_hello.tgs'),
+            type: 'image',
+            src: import('./assets/img/1500x1500.jpg'),
             size: 250,
           },
           shape: 'square',
