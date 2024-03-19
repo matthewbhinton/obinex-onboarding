@@ -11,7 +11,7 @@ export default defineConfig({
           media: {
             type: 'image',
             src: import('./assets/img/1500x500.webp'),
-            size: 250,
+            size: 800,
           },
           shape: 'square',
           pagination: 'count',
