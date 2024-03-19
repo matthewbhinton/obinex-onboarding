@@ -10,7 +10,7 @@ export default defineConfig({
         {
           media: {
             type: 'image',
-            src: import('./assets/img/1500x1500.jpg'),
+            src: import('./assets/img/1500x1500.webp'),
             size: 250,
           },
           shape: 'square',
