@@ -137,7 +137,7 @@ export default defineConfig({
           description: "Let's go to Paywall",
           button: {
             content: 'Go to Paywall',
-            to: 'https://obinex.com',
+            to: href: 'https://google.com',
           },
         },
       ],
