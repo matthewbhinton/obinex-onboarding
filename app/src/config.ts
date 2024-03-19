@@ -25,7 +25,7 @@ export default defineConfig({
         {
           media: {
             type: 'image',
-            src: import('./assets/img/durov.webp'),
+            src: import('./assets/img/3.jpg'),
           },
           shape: 'rounded',
           pagination: 'count',
@@ -38,8 +38,8 @@ export default defineConfig({
         // sticker
         {
           media: {
-            type: 'sticker',
-            src: import('./assets/stickers/duck_love.tgs'),
+            type: 'image',
+            src: import('./assets/img/2.jpg'),
             size: 250,
           },
           shape: 'square',
