@@ -177,24 +177,7 @@ export default defineConfig({
         },
 
         // go to paywall slide
-        {
-          media: {
-            type: 'sticker',
-            src: import('./assets/stickers/duck_knife.tgs'),
-            size: 250,
-          },
-          shape: 'square',
-          pagination: 'count',
-          textAlign: 'center',
-          title: 'But onboarding slides are not enough...',
-          description: "Let's go to Paywall",
-          button: {
-            content: 'Go to Paywall',
-            to: '/paywall',
-          },
-        },
-      ],
-    },
+        
 
     // paywall
     {
