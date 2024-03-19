@@ -133,25 +133,7 @@ export default defineConfig({
           button: 'Next',
         },
 
-        // "everything is customizable" slide
-        {
-          media: {
-            type: 'sticker',
-            src: import('./assets/stickers/duck_xray.tgs'),
-            size: 250,
-          },
-          shape: 'square',
-          pagination: 'count',
-          title: 'Everything is customizable',
-          description: '',
-          textAlign: 'center',
-          list: [
-            '<b>CSS styles</b>: extend primary colors from Telegram or set yours',
-            'Button text and actions (look down)',
-            'Use our carefully crafted <b>presets</b> or easily create your own',
-          ],
-          button: 'Super-Duper Next',
-        },
+
 
         // slide with other features
         {
