@@ -64,16 +64,7 @@ export default defineConfig({
           description: 'User fills in the form – the bot receives the data',
           form: [
             {
-              id: 'text_from_form',
-              placeholder: 'Text input',
-              type: 'text',
-            },
-            {
-              id: 'number_from_form',
-              placeholder: 'Number input',
-              type: 'number',
-            },
-            {
+              
               id: 'checkbox_from_form',
               placeholder: 'Checkbox',
               type: 'checkbox',
