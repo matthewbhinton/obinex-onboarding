@@ -17,7 +17,7 @@ export default defineConfig({
           pagination: 'count',
           title: 'Welcome to Obinex Onboarding Kit',
           description:
-            "Create stunning onboarding and paywall for your Telegram Bot using the full power of Mini Apps<br><br>It's <b>simple</b>, <b>fast</b>, highly <b>customizable</b> and <a href='https://github.com/Easterok/telegram-onboarding-kit' target='_blank'>open-source</a>!",
+            "Bringing the Future to now! We are going to be the largest, most trusted and stable ecosystem in the world. Join us on our journey!",
           button: 'Next',
         },
 
