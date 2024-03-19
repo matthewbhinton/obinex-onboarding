@@ -67,8 +67,11 @@ export default defineConfig({
 
               id: 'checkbox_from_form',
               placeholder: 'Web3',
+              </b><br>
               placeholder: 'DeFi',
+              </b><br>
               placeholder: 'Rewards',
+              </b><br>
               placeholder: 'Obinex Features',
               type: 'checkbox',
             },
