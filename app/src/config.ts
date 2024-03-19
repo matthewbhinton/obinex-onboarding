@@ -64,9 +64,12 @@ export default defineConfig({
           description: 'User fills in the form – the bot receives the data',
           form: [
             {
-              
+
               id: 'checkbox_from_form',
-              placeholder: 'Checkbox',
+              placeholder: 'Web3',
+              placeholder: 'DeFi',
+              placeholder: 'Rewards',
+              placeholder: 'Obinex Features',
               type: 'checkbox',
             },
           ],
